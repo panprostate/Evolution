@@ -71,87 +71,87 @@ The table below explicitly lists which code reproduces each figure in the manusc
 
 | Figure type | Panel | Code location |
 | --- | --- | --- |
-| Main | Fig1a | [scripts/01_landscape/01_landscape_subclonality.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/01_landscape/01_landscape_subclonality.R) |
+| Main | Fig1a | [scripts/01_landscape/01_landscape_subclonality.R](https://github.com/panprostate/Evolution/tree/main/scripts/01_landscape/01_landscape_subclonality.R) |
 | Main | Fig1b | Schematic — no script |
-| Main | Fig1c | [scripts/01_landscape/04d_timing_analysis.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/01_landscape/04d_timing_analysis.R) |
+| Main | Fig1c | [scripts/01_landscape/04d_timing_analysis.R](https://github.com/panprostate/Evolution/tree/main/scripts/01_landscape/04d_timing_analysis.R) |
 | Main | Fig2a | Schematic — no script |
-| Main | Fig2b | [scripts/02_trajectories/01_generate_ordering_plot.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/01_generate_ordering_plot.R) |
-| Main | Fig2c | [scripts/02_trajectories/01_generate_ordering_plot.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/01_generate_ordering_plot.R) |
-| Main | Fig2d | [scripts/02_trajectories/01_generate_ordering_plot.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/01_generate_ordering_plot.R) |
-| Main | Fig2e | [scripts/02_trajectories/06_clinical_correlates.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/06_clinical_correlates.R) |
-| Main | Fig2f | [scripts/02_trajectories/06_clinical_correlates.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/06_clinical_correlates.R) |
-| Main | Fig2g | [scripts/02_trajectories/06_clinical_correlates.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/06_clinical_correlates.R) |
-| Main | Fig3a | [scripts/03_mechanism/01_mrca_commitment.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/01_mrca_commitment.R) |
-| Main | Fig3b | [scripts/03_mechanism/03_mutational_processes.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/03_mutational_processes.R) |
-| Main | Fig3c | [scripts/03_mechanism/04_reptime_size_biases.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/04_reptime_size_biases.R) |
-| Main | Fig3d | [scripts/03_mechanism/04_reptime_size_biases.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/04_reptime_size_biases.R) |
-| Main | Fig3e | [scripts/03_mechanism/04_reptime_size_biases.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/04_reptime_size_biases.R) |
-| Main | Fig3f | [scripts/02_trajectories/07_ancestry.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/07_ancestry.R) |
-| Main | Fig3g | [scripts/02_trajectories/07_ancestry.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/07_ancestry.R) |
-| Main | Fig4a | [scripts/04_progression/01_trajectory_progression.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/04_progression/01_trajectory_progression.R) |
-| Main | Fig4b | [scripts/04_progression/01_trajectory_progression.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/04_progression/01_trajectory_progression.R) |
+| Main | Fig2b | [scripts/02_trajectories/01_generate_ordering_plot.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/01_generate_ordering_plot.R) |
+| Main | Fig2c | [scripts/02_trajectories/01_generate_ordering_plot.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/01_generate_ordering_plot.R) |
+| Main | Fig2d | [scripts/02_trajectories/01_generate_ordering_plot.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/01_generate_ordering_plot.R) |
+| Main | Fig2e | [scripts/02_trajectories/06_clinical_correlates.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/06_clinical_correlates.R) |
+| Main | Fig2f | [scripts/02_trajectories/06_clinical_correlates.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/06_clinical_correlates.R) |
+| Main | Fig2g | [scripts/02_trajectories/06_clinical_correlates.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/06_clinical_correlates.R) |
+| Main | Fig3a | [scripts/03_mechanism/01_mrca_commitment.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/01_mrca_commitment.R) |
+| Main | Fig3b | [scripts/03_mechanism/03_mutational_processes.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/03_mutational_processes.R) |
+| Main | Fig3c | [scripts/03_mechanism/04_reptime_size_biases.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/04_reptime_size_biases.R) |
+| Main | Fig3d | [scripts/03_mechanism/04_reptime_size_biases.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/04_reptime_size_biases.R) |
+| Main | Fig3e | [scripts/03_mechanism/04_reptime_size_biases.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/04_reptime_size_biases.R) |
+| Main | Fig3f | [scripts/02_trajectories/07_ancestry.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/07_ancestry.R) |
+| Main | Fig3g | [scripts/02_trajectories/07_ancestry.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/07_ancestry.R) |
+| Main | Fig4a | [scripts/04_progression/01_trajectory_progression.R](https://github.com/panprostate/Evolution/tree/main/scripts/04_progression/01_trajectory_progression.R) |
+| Main | Fig4b | [scripts/04_progression/01_trajectory_progression.R](https://github.com/panprostate/Evolution/tree/main/scripts/04_progression/01_trajectory_progression.R) |
 | Main | Fig4c | Schematic — no script |
-| Main | Fig4d | [scripts/04_progression/02c_analysis_simulations.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/04_progression/02c_analysis_simulations.R) |
-| Main | Fig4e | [scripts/04_progression/02c_analysis_simulations.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/04_progression/02c_analysis_simulations.R) |
-| Main | Fig5a | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
+| Main | Fig4d | [scripts/04_progression/02c_analysis_simulations.R](https://github.com/panprostate/Evolution/tree/main/scripts/04_progression/02c_analysis_simulations.R) |
+| Main | Fig4e | [scripts/04_progression/02c_analysis_simulations.R](https://github.com/panprostate/Evolution/tree/main/scripts/04_progression/02c_analysis_simulations.R) |
+| Main | Fig5a | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://github.com/panprostate/Evolution/tree/main/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
 | Main | Fig5b | Schematic — no script |
-| Main | Fig5c | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
-| Main | Fig5d | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
-| Main | Fig5e | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
-| Extended Data | EXDF1a | [scripts/00_preprocessing/01b_nrpcc_nsubclones.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/00_preprocessing/01b_nrpcc_nsubclones.R) |
-| Extended Data | EXDF1b | [scripts/00_preprocessing/01b_nrpcc_nsubclones.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/00_preprocessing/01b_nrpcc_nsubclones.R) |
-| Extended Data | EXDF1c | [scripts/00_preprocessing/01c_winner_curse.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/00_preprocessing/01c_winner_curse.R) |
-| Extended Data | EXDF2a | [scripts/01_landscape/03b_plot_dnds.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/01_landscape/03b_plot_dnds.R) |
-| Extended Data | EXDF2b | [scripts/01_landscape/02_sbs_sigs_changes.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/01_landscape/02_sbs_sigs_changes.R) |
-| Extended Data | EXDF3a | [scripts/02_trajectories/05b_differential_methylation.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/05b_differential_methylation.R) |
-| Extended Data | EXDF3b | [scripts/02_trajectories/05b_differential_methylation.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/05b_differential_methylation.R) |
-| Extended Data | EXDF3c | [scripts/02_trajectories/05b_differential_methylation.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/05b_differential_methylation.R) |
-| Extended Data | EXDF3d | [scripts/02_trajectories/05b_differential_methylation.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/05b_differential_methylation.R) |
-| Extended Data | EXDF4 | [scripts/02_trajectories/05a_rna_dea_evotypes.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/05a_rna_dea_evotypes.R) |
-| Extended Data | EXDF6 | [scripts/03_mechanism/03_mutational_processes.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/03_mutational_processes.R) |
-| Extended Data | EXDF7a | [scripts/03_mechanism/03_mutational_processes.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/03_mutational_processes.R) |
-| Extended Data | EXDF7b | [scripts/03_mechanism/03_mutational_processes.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/03_mutational_processes.R) |
-| Extended Data | EXDF7c | [scripts/03_mechanism/04_reptime_size_biases.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/04_reptime_size_biases.R) |
-| Extended Data | EXDF7d | [scripts/03_mechanism/04_reptime_size_biases.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/04_reptime_size_biases.R) |
-| Extended Data | EXDF7e | [scripts/03_mechanism/04_reptime_size_biases.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/04_reptime_size_biases.R) |
-| Extended Data | EXDF7f | [scripts/03_mechanism/04_reptime_size_biases.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/04_reptime_size_biases.R) |
-| Extended Data | EXDF7g | [scripts/03_mechanism/04_reptime_size_biases.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/04_reptime_size_biases.R) |
-| Extended Data | EXDF7h | [scripts/03_mechanism/04_reptime_size_biases.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/04_reptime_size_biases.R) |
-| Extended Data | EXDF8 | [scripts/04_progression/02c_analysis_simulations.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/04_progression/02c_analysis_simulations.R) |
-| Extended Data | EXDF9a | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
-| Extended Data | EXDF9b | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
-| Extended Data | EXDF9c | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
-| Extended Data | EXDF9d | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
-| Extended Data | EXDF9e | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
+| Main | Fig5c | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://github.com/panprostate/Evolution/tree/main/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
+| Main | Fig5d | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://github.com/panprostate/Evolution/tree/main/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
+| Main | Fig5e | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://github.com/panprostate/Evolution/tree/main/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
+| Extended Data | EXDF1a | [scripts/00_preprocessing/01b_nrpcc_nsubclones.R](https://github.com/panprostate/Evolution/tree/main/scripts/00_preprocessing/01b_nrpcc_nsubclones.R) |
+| Extended Data | EXDF1b | [scripts/00_preprocessing/01b_nrpcc_nsubclones.R](https://github.com/panprostate/Evolution/tree/main/scripts/00_preprocessing/01b_nrpcc_nsubclones.R) |
+| Extended Data | EXDF1c | [scripts/00_preprocessing/01c_winner_curse.R](https://github.com/panprostate/Evolution/tree/main/scripts/00_preprocessing/01c_winner_curse.R) |
+| Extended Data | EXDF2a | [scripts/01_landscape/03b_plot_dnds.R](https://github.com/panprostate/Evolution/tree/main/scripts/01_landscape/03b_plot_dnds.R) |
+| Extended Data | EXDF2b | [scripts/01_landscape/02_sbs_sigs_changes.R](https://github.com/panprostate/Evolution/tree/main/scripts/01_landscape/02_sbs_sigs_changes.R) |
+| Extended Data | EXDF3a | [scripts/02_trajectories/05b_differential_methylation.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/05b_differential_methylation.R) |
+| Extended Data | EXDF3b | [scripts/02_trajectories/05b_differential_methylation.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/05b_differential_methylation.R) |
+| Extended Data | EXDF3c | [scripts/02_trajectories/05b_differential_methylation.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/05b_differential_methylation.R) |
+| Extended Data | EXDF3d | [scripts/02_trajectories/05b_differential_methylation.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/05b_differential_methylation.R) |
+| Extended Data | EXDF4 | [scripts/02_trajectories/05a_rna_dea_evotypes.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/05a_rna_dea_evotypes.R) |
+| Extended Data | EXDF6 | [scripts/03_mechanism/03_mutational_processes.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/03_mutational_processes.R) |
+| Extended Data | EXDF7a | [scripts/03_mechanism/03_mutational_processes.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/03_mutational_processes.R) |
+| Extended Data | EXDF7b | [scripts/03_mechanism/03_mutational_processes.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/03_mutational_processes.R) |
+| Extended Data | EXDF7c | [scripts/03_mechanism/04_reptime_size_biases.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/04_reptime_size_biases.R) |
+| Extended Data | EXDF7d | [scripts/03_mechanism/04_reptime_size_biases.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/04_reptime_size_biases.R) |
+| Extended Data | EXDF7e | [scripts/03_mechanism/04_reptime_size_biases.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/04_reptime_size_biases.R) |
+| Extended Data | EXDF7f | [scripts/03_mechanism/04_reptime_size_biases.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/04_reptime_size_biases.R) |
+| Extended Data | EXDF7g | [scripts/03_mechanism/04_reptime_size_biases.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/04_reptime_size_biases.R) |
+| Extended Data | EXDF7h | [scripts/03_mechanism/04_reptime_size_biases.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/04_reptime_size_biases.R) |
+| Extended Data | EXDF8 | [scripts/04_progression/02c_analysis_simulations.R](https://github.com/panprostate/Evolution/tree/main/scripts/04_progression/02c_analysis_simulations.R) |
+| Extended Data | EXDF9a | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://github.com/panprostate/Evolution/tree/main/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
+| Extended Data | EXDF9b | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://github.com/panprostate/Evolution/tree/main/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
+| Extended Data | EXDF9c | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://github.com/panprostate/Evolution/tree/main/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
+| Extended Data | EXDF9d | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://github.com/panprostate/Evolution/tree/main/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
+| Extended Data | EXDF9e | [scripts/05_clinical_utility/01_metastasis_free_survival.R](https://github.com/panprostate/Evolution/tree/main/scripts/05_clinical_utility/01_metastasis_free_survival.R) |
 | Extended Data | EXDF10a | Schematic — no script |
-| Extended Data | EXDF10b | [scripts/05_clinical_utility/02_hmf_treatment_response.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/05_clinical_utility/02_hmf_treatment_response.R) |
-| Extended Data | EXDF10c | [scripts/05_clinical_utility/02_hmf_treatment_response.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/05_clinical_utility/02_hmf_treatment_response.R) |
-| Extended Data | EXDF10d | [scripts/05_clinical_utility/02_hmf_treatment_response.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/05_clinical_utility/02_hmf_treatment_response.R) |
-| Extended Data | EXDF10e | [scripts/05_clinical_utility/02_hmf_treatment_response.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/05_clinical_utility/02_hmf_treatment_response.R) |
-| Extended Data | EXDF10f | [scripts/05_clinical_utility/02_hmf_treatment_response.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/05_clinical_utility/02_hmf_treatment_response.R) |
-| Extended Data | EXDF10g | [scripts/05_clinical_utility/02_hmf_treatment_response.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/05_clinical_utility/02_hmf_treatment_response.R) |
-| Supplementary | SF1a | [scripts/00_preprocessing/04_cluster_qc.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/00_preprocessing/04_cluster_qc.R) |
-| Supplementary | SF1b | [scripts/00_preprocessing/04_cluster_qc.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/00_preprocessing/04_cluster_qc.R) |
-| Supplementary | SF1c | [scripts/00_preprocessing/04_cluster_qc.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/00_preprocessing/04_cluster_qc.R) |
-| Supplementary | SF1d | [scripts/00_preprocessing/04_cluster_qc.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/00_preprocessing/04_cluster_qc.R) |
-| Supplementary | SF1e | [scripts/00_preprocessing/04_cluster_qc.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/00_preprocessing/04_cluster_qc.R) |
-| Supplementary | SF1f | [scripts/00_preprocessing/04_cluster_qc.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/00_preprocessing/04_cluster_qc.R) |
-| Supplementary | SF1g | [scripts/00_preprocessing/04_cluster_qc.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/00_preprocessing/04_cluster_qc.R) |
-| Supplementary | SF1h | [scripts/00_preprocessing/04_cluster_qc.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/00_preprocessing/04_cluster_qc.R) |
-| Supplementary | SF2 | [scripts/01_landscape/04a_sbs2age.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/01_landscape/04a_sbs2age.R) |
-| Supplementary | SF3 | [scripts/01_landscape/04c_time_landmarks.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/01_landscape/04c_time_landmarks.R) |
-| Supplementary | SF4 | [scripts/01_landscape/04c_time_landmarks.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/01_landscape/04c_time_landmarks.R) |
-| Supplementary | SF5 | [scripts/01_landscape/04d_timing_analysis.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/01_landscape/04d_timing_analysis.R) |
-| Supplementary | SF6 | [scripts/01_landscape/04e_proliferation_markers.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/01_landscape/04e_proliferation_markers.R) |
-| Supplementary | SF7b | [scripts/02_trajectories/04_previous_molecular_subtypes.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/04_previous_molecular_subtypes.R) |
-| Supplementary | SF7c | [scripts/02_trajectories/04_previous_molecular_subtypes.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/04_previous_molecular_subtypes.R) |
-| Supplementary | SF8 (amps) | [scripts/03_mechanism/02_compare_gistic.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/02_compare_gistic.R) |
-| Supplementary | SF8 (dels) | [scripts/03_mechanism/02_compare_gistic.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/02_compare_gistic.R) |
-| Supplementary | SF9 | [scripts/03_mechanism/02_compare_gistic.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/02_compare_gistic.R) |
-| Supplementary | SF10 | [scripts/03_mechanism/02_compare_gistic.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/03_mechanism/02_compare_gistic.R) |
-| Supplementary | SF11a | [scripts/02_trajectories/04_previous_molecular_subtypes.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/04_previous_molecular_subtypes.R) |
-| Supplementary | SF11b | [scripts/02_trajectories/04_previous_molecular_subtypes.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/04_previous_molecular_subtypes.R) |
-| Supplementary | SF12 | [scripts/02_trajectories/03_trajectory_timelines.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/02_trajectories/03_trajectory_timelines.R) |
-| Supplementary | SF13 | [scripts/04_progression/01_trajectory_progression.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/04_progression/01_trajectory_progression.R) |
-| Supplementary | SF14 | [scripts/04_progression/02a_rate_evolution.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/04_progression/02a_rate_evolution.R) |
-| Supplementary | SF15 | [scripts/04_progression/02c_analysis_simulations.R](https://gitfront.io/r/jweischenfeldt/w7DkzsAh2tpF/ppcg-evolution-paper/blob/scripts/04_progression/02c_analysis_simulations.R) |
+| Extended Data | EXDF10b | [scripts/05_clinical_utility/02_hmf_treatment_response.R](https://github.com/panprostate/Evolution/tree/main/scripts/05_clinical_utility/02_hmf_treatment_response.R) |
+| Extended Data | EXDF10c | [scripts/05_clinical_utility/02_hmf_treatment_response.R](https://github.com/panprostate/Evolution/tree/main/scripts/05_clinical_utility/02_hmf_treatment_response.R) |
+| Extended Data | EXDF10d | [scripts/05_clinical_utility/02_hmf_treatment_response.R](https://github.com/panprostate/Evolution/tree/main/scripts/05_clinical_utility/02_hmf_treatment_response.R) |
+| Extended Data | EXDF10e | [scripts/05_clinical_utility/02_hmf_treatment_response.R](https://github.com/panprostate/Evolution/tree/main/scripts/05_clinical_utility/02_hmf_treatment_response.R) |
+| Extended Data | EXDF10f | [scripts/05_clinical_utility/02_hmf_treatment_response.R](https://github.com/panprostate/Evolution/tree/main/scripts/05_clinical_utility/02_hmf_treatment_response.R) |
+| Extended Data | EXDF10g | [scripts/05_clinical_utility/02_hmf_treatment_response.R](https://github.com/panprostate/Evolution/tree/main/scripts/05_clinical_utility/02_hmf_treatment_response.R) |
+| Supplementary | SF1a | [scripts/00_preprocessing/04_cluster_qc.R](https://github.com/panprostate/Evolution/tree/main/scripts/00_preprocessing/04_cluster_qc.R) |
+| Supplementary | SF1b | [scripts/00_preprocessing/04_cluster_qc.R](https://github.com/panprostate/Evolution/tree/main/scripts/00_preprocessing/04_cluster_qc.R) |
+| Supplementary | SF1c | [scripts/00_preprocessing/04_cluster_qc.R](https://github.com/panprostate/Evolution/tree/main/scripts/00_preprocessing/04_cluster_qc.R) |
+| Supplementary | SF1d | [scripts/00_preprocessing/04_cluster_qc.R](https://github.com/panprostate/Evolution/tree/main/scripts/00_preprocessing/04_cluster_qc.R) |
+| Supplementary | SF1e | [scripts/00_preprocessing/04_cluster_qc.R](https://github.com/panprostate/Evolution/tree/main/scripts/00_preprocessing/04_cluster_qc.R) |
+| Supplementary | SF1f | [scripts/00_preprocessing/04_cluster_qc.R](https://github.com/panprostate/Evolution/tree/main/scripts/00_preprocessing/04_cluster_qc.R) |
+| Supplementary | SF1g | [scripts/00_preprocessing/04_cluster_qc.R](https://github.com/panprostate/Evolution/tree/main/scripts/00_preprocessing/04_cluster_qc.R) |
+| Supplementary | SF1h | [scripts/00_preprocessing/04_cluster_qc.R](https://github.com/panprostate/Evolution/tree/main/scripts/00_preprocessing/04_cluster_qc.R) |
+| Supplementary | SF2 | [scripts/01_landscape/04a_sbs2age.R](https://github.com/panprostate/Evolution/tree/main/scripts/01_landscape/04a_sbs2age.R) |
+| Supplementary | SF3 | [scripts/01_landscape/04c_time_landmarks.R](https://github.com/panprostate/Evolution/tree/main/scripts/01_landscape/04c_time_landmarks.R) |
+| Supplementary | SF4 | [scripts/01_landscape/04c_time_landmarks.R](https://github.com/panprostate/Evolution/tree/main/scripts/01_landscape/04c_time_landmarks.R) |
+| Supplementary | SF5 | [scripts/01_landscape/04d_timing_analysis.R](https://github.com/panprostate/Evolution/tree/main/scripts/01_landscape/04d_timing_analysis.R) |
+| Supplementary | SF6 | [scripts/01_landscape/04e_proliferation_markers.R](https://github.com/panprostate/Evolution/tree/main/scripts/01_landscape/04e_proliferation_markers.R) |
+| Supplementary | SF7b | [scripts/02_trajectories/04_previous_molecular_subtypes.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/04_previous_molecular_subtypes.R) |
+| Supplementary | SF7c | [scripts/02_trajectories/04_previous_molecular_subtypes.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/04_previous_molecular_subtypes.R) |
+| Supplementary | SF8 (amps) | [scripts/03_mechanism/02_compare_gistic.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/02_compare_gistic.R) |
+| Supplementary | SF8 (dels) | [scripts/03_mechanism/02_compare_gistic.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/02_compare_gistic.R) |
+| Supplementary | SF9 | [scripts/03_mechanism/02_compare_gistic.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/02_compare_gistic.R) |
+| Supplementary | SF10 | [scripts/03_mechanism/02_compare_gistic.R](https://github.com/panprostate/Evolution/tree/main/scripts/03_mechanism/02_compare_gistic.R) |
+| Supplementary | SF11a | [scripts/02_trajectories/04_previous_molecular_subtypes.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/04_previous_molecular_subtypes.R) |
+| Supplementary | SF11b | [scripts/02_trajectories/04_previous_molecular_subtypes.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/04_previous_molecular_subtypes.R) |
+| Supplementary | SF12 | [scripts/02_trajectories/03_trajectory_timelines.R](https://github.com/panprostate/Evolution/tree/main/scripts/02_trajectories/03_trajectory_timelines.R) |
+| Supplementary | SF13 | [scripts/04_progression/01_trajectory_progression.R](https://github.com/panprostate/Evolution/tree/main/scripts/04_progression/01_trajectory_progression.R) |
+| Supplementary | SF14 | [scripts/04_progression/02a_rate_evolution.R](https://github.com/panprostate/Evolution/tree/main/scripts/04_progression/02a_rate_evolution.R) |
+| Supplementary | SF15 | [scripts/04_progression/02c_analysis_simulations.R](https://github.com/panprostate/Evolution/tree/main/scripts/04_progression/02c_analysis_simulations.R) |
