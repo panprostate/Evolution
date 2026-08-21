@@ -4,7 +4,7 @@ This repository contains all the code necessary to reproduce the figures (main, 
 
 ## Reproducing the figures
 
-> **For reviewers:** all source data needed to regenerate the published panels are available at the following private figshare link: <https://figshare.com/s/058ba7d313d13b144357>. Download all files and save them under `figures_data/` (flat, no subfolders), then follow steps 1, 3 & 4 below.
+> **Note:** all source data needed to regenerate the published panels are available at the following private figshare link: <https://figshare.com/s/058ba7d313d13b144357>. Download all files and save them under `figures_data/` (flat, no subfolders), then follow steps 1, 3 & 4 below.
 
 Strict data protection policies prevent redistribution of raw patient-level data (see [Data availability](#data-availability)); the source-data files above contain only the pre-computed plotting inputs for each panel.
 
