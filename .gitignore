@@ -1,0 +1,12 @@
+phylogicndt/
+data/
+outputs/
+figures/
+logs/
+figures_data/
+scripts/03_mechanism/gistic/*
+!scripts/03_mechanism/gistic/main.nf
+!scripts/03_mechanism/gistic/nextflow.config
+!scripts/03_mechanism/gistic/envs/
+!scripts/03_mechanism/gistic/scripts/
+!data/ext/cytoBand_hg19.txt
